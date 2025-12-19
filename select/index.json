@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Yes I am",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-19T01:46:05.824687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/01_Yes_I_Am_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Yes_I_Am_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way from Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/03_Yes!_I_Am_a_Long_Way_from_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way From Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/04_Yes!_I_Am_a_Long_Way_From_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yes, I Am Blind",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/05_Yes,_I_Am_Blind_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yes! I Am a Long Way from Home",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/06_Yes!_I_Am_a_Long_Way_from_Home_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/07_Yes_I_Am_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yes, I Am Talking To You",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/08_Yes,_I_Am_Talking_To_You_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/09_Yes_I_Am_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/10_Yes_I_Am_10cc.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yes I Am",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_Yes_I_Am_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yes I know",
+      "artist": "Memory Tapes",
+      "has_synced": false,
+      "path": "select/12_Yes_I_know_Memory_Tapes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yes I Need My Generator",
+      "artist": "Turnstile feat. Mall Grab",
+      "has_synced": true,
+      "path": "select/13_Yes_I_Need_My_Generator_Turnstile_feat._Mall_Grab.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yes I Need My Generator",
+      "artist": "Turnstile & Mall Grab",
+      "has_synced": true,
+      "path": "select/14_Yes_I_Need_My_Generator_Turnstile_&_Mall_Grab.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yes, I Confess",
+      "artist": "Black Eyes",
+      "has_synced": false,
+      "path": "select/15_Yes,_I_Confess_Black_Eyes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/16_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/17_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Am Not a Man Unless I Have a Woman",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/18_I_Am_Not_a_Man_Unless_I_Have_a_Woman_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Am a Man of Constant Sorrow",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/19_I_Am_a_Man_of_Constant_Sorrow_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Am A Man Of Constant Sorrow (Radio Edit)",
+      "artist": "The Soggy Bottom Boys",
+      "has_synced": true,
+      "path": "select/20_I_Am_A_Man_Of_Constant_Sorrow_(Radio_Edit)_The_Soggy_Bottom_Boys.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I Am A Simple Man",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/21_I_Am_A_Simple_Man_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Am A Simple Man (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/22_I_Am_A_Simple_Man_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Am That Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": false,
+      "path": "select/23_I_Am_That_Man_Brooks_&_Dunn.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Am That Man",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/24_I_Am_That_Man_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "It’s ‘Cause I Am",
+      "artist": "Callista Clark",
+      "has_synced": true,
+      "path": "select/25_It’s_‘Cause_I_Am_Callista_Clark.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Just As I Am",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/26_Just_As_I_Am_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Just As I Am (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/27_Just_As_I_Am_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Lonely Like I Am",
+      "artist": "Logan Michael",
+      "has_synced": true,
+      "path": "select/28_Lonely_Like_I_Am_Logan_Michael.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Lonely Like I Am",
+      "artist": "Michael Logan",
+      "has_synced": true,
+      "path": "select/29_Lonely_Like_I_Am_Michael_Logan.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/30_Take_Me_As_I_Am_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Take Me as I Am (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/31_Take_Me_as_I_Am_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "What Kind Of Fool Do You Think I Am",
+      "artist": "Lee Roy Parnell",
+      "has_synced": false,
+      "path": "select/32_What_Kind_Of_Fool_Do_You_Think_I_Am_Lee_Roy_Parnell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I was King",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_I_was_King_ONE_OK_ROCK.txt"
+    }
+  ]
+}
